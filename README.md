@@ -155,7 +155,3 @@ schedule:
 | 次回のゴミ出し確認 | `schedule.yaml` |
 | 品目の分別方法確認 | 各行別YAMLファイル |
 
-## 関連リンク
-
-- [LINE Trash AI（アプリケーション）](https://github.com/noemaru1011/TrashBot)
-- [Qiita：LINE×AIで楽に生活を管理させたい](https://qiita.com/ei_1263_/items/590453d836ba9d9c6f66)
