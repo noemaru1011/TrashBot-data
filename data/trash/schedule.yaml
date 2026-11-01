@@ -1,0 +1,36 @@
+schedule:
+  # 毎週
+  - weekday: monday
+    type: 
+
+  - weekday: tuesday
+    type: 
+
+  - weekday: tuesday
+    type: 
+
+  - weekday: wednesday
+    type: 
+
+  - weekday: wednesday
+    type: 
+
+  - weekday: wednesday
+    type: 
+
+  - weekday: thursday
+    type: 
+
+  - weekday: friday
+    type: 
+
+  # 第1金曜日
+  - weekday: friday
+    week: 1
+    type: 
+
+  # 第2金曜日
+  - weekday: friday
+    week: 2
+    type: 
+
