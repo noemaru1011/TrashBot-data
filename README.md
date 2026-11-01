@@ -1,6 +1,10 @@
 # TrashBot-data
 
-LINE Trash AIで使用するゴミ出しスケジュール・分別ルールを管理するためのリポジトリです。
+[TrashBot-app](https://github.com/noemaru1011/TrashBot-app) で使用するゴミ出しスケジュール・分別ルールを管理するためのリポジトリです。
+
+参考記事(Qiita)
+[Qiita](https://qiita.com/ei_1263_/items/590453d836ba9d9c6f66)  
+※ 結局、日常的に使ったのがゴミ出しだけでしたのでrepositoryを公開します
 
 ゴミ出しに関する情報をYAML形式で管理し、アプリケーションからGitHub APIを通じて取得します。
 
